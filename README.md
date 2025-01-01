@@ -1,6 +1,6 @@
 ### Hi there, I'm literate-octo-doodle 👋
 
-I'm a passionate marketer with a strong focus on decentralized autonomous organizations (DAOs) and the blockchain ecosystem. My mission is to help projects grow and achieve their goals through innovative marketing strategies.
+I'm a passionate learning programmer. My mission is to help projects grow and achieve their goals through innovation.
 
 ---
 
@@ -14,22 +14,13 @@ I'm a passionate marketer with a strong focus on decentralized autonomous organi
 ---
 
 ### 🚀 Projects & Contributions
-- **Project A**: Description of your project or contribution.
-- **Project B**: Description of your project or contribution.
-- **Project C**: Description of your project or contribution.
+- **Project A**: Update Soon!.
+- **Project B**: Update Soon!.
 
 ---
 
 ### 📚 Learning & Growth
-- Currently learning more about DeFi and NFTs.
-- Exploring advanced blockchain development and smart contract security.
-
----
-
-### 🌐 Connect with Me
-- **Twitter**: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourLinkedInProfile)
-- **Website**: [Your Personal Website](https://yourwebsite.com)
+- Currently learning more about Python, LLMs, Multi-model Language models and data reconstruction.
 
 ---
 
